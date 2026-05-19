@@ -16,9 +16,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Bloom E-Commerce Template",
+  title: "Bloom - Kính Mắt Cao Cấp & Gọng Kính Chuyên Nghiệp",
   description:
-    "Discover a wide selection of trendy clothes, shoes and accessories on Bloom E-Commerce. Enjoy fast delivery and free returns. Shop now!",
+    "Khám phá bộ sưu tập kính mắt, gọng kính, tròng kính cao cấp từ các thương hiệu hàng đầu. Chất lượng tuyệt vời, kiểu dáng hiện đại, giá cạnh tranh. Giao hàng nhanh & hỗ trợ sau bán hàng tuyệt vời!",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
@@ -40,8 +43,8 @@ export default function RootLayout({
             <FavoritesProvider>
               <CartProvider>
                 <Header />
-            <main className="flex-grow">{children}</main>
-            <Footer />
+                <main className="flex-grow">{children}</main>
+                <Footer />
                 <ChatBox />
               </CartProvider>
             </FavoritesProvider>
