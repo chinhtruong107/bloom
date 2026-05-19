@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": "Kính râm Aviator Classic",
+    "price": 2047000,
+    "image": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?q=80&w=687&auto=format&fit=crop",
+    "description": "Kính râm kiểu dáng phi công cổ điển, tròng kính chống tia UV tuyệt đối. Khung kim loại mạ vàng sang trọng.",
+    "category": "Mắt kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 2,
+    "name": "Kính mát Oversized",
+    "price": 1817000,
+    "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?q=80&w=1176&auto=format&fit=crop",
+    "description": "Kính mát bản to sành điệu, bảo vệ mắt tối đa khỏi ánh nắng mặt trời, hoàn hảo cho những chuyến du lịch mùa hè.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 3,
+    "name": "Kính thể thao chống lóa",
+    "price": 2967000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Kính chuyên dụng cho hoạt động thể thao ngoài trời với tròng Polarized chống lóa, viền đệm cao su êm ái.",
+    "category": "Mắt kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 4,
+    "name": "Kính râm nữ Cat-Eye",
+    "price": 1955000,
+    "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=687&auto=format&fit=crop",
+    "description": "Thiết kế mắt mèo cá tính và sắc sảo, tròng kính tráng gương giúp phái nữ nổi bật giữa đám đông.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 5,
+    "name": "Gọng kính tròn Retro",
+    "price": 1127000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Gọng kính dáng tròn mang phong cách hoài cổ, chất liệu nhựa Acetate siêu nhẹ, phù hợp cho người cận thị.",
+    "category": "Gọng kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 6,
+    "name": "Gọng kính Titanium Pro",
+    "price": 2737000,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=735&auto=format&fit=crop",
+    "description": "Gọng kính làm từ Titanium nguyên chất, siêu bền và chống gỉ sét. Thiết kế không viền tinh tế dành cho doanh nhân.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 7,
+    "name": "Gọng kính nhựa dẻo TR90",
+    "price": 805000,
+    "image": "https://images.unsplash.com/photo-1496202703211-aa28e9500c30?q=80&w=1170&auto=format&fit=crop",
+    "description": "Chất liệu nhựa TR90 siêu dẻo, có thể uốn cong mà không gãy. Phù hợp cho cả trẻ em và người lớn tuổi.",
+    "category": "Gọng kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 8,
+    "name": "Gọng kính kim loại Basic",
+    "price": 1035000,
+    "image": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?q=80&w=800&auto=format&fit=crop",
+    "description": "Thiết kế kim loại đơn giản, thanh lịch, phù hợp cho dân văn phòng và sinh viên.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 9,
+    "name": "Hộp đựng kính da cao cấp",
+    "price": 575000,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=1170&auto=format&fit=crop",
+    "description": "Hộp đựng kính làm từ da thật, lót nhung chống xước bên trong. Nhỏ gọn và tiện lợi để mang theo.",
+    "category": "Phụ kiện",
+    "isBestSeller": true
+  },
+  {
+    "id": 10,
+    "name": "Kính chống ánh sáng xanh",
+    "price": 1495000,
+    "image": "https://images.unsplash.com/photo-1516767254874-281bffac9e9a?q=80&w=1170&auto=format&fit=crop",
+    "description": "Bảo vệ đôi mắt của bạn khi làm việc với máy tính nhờ lớp phủ đặc biệt lọc ánh sáng xanh có hại.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 11,
+    "name": "Nước lau kính & Khăn Nano",
+    "price": 345000,
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=764&auto=format&fit=crop",
+    "description": "Bộ vệ sinh kính chuyên dụng bao gồm dung dịch làm sạch không cồn và khăn lau sợi Nano siêu mềm.",
+    "category": "Phụ kiện",
+    "isBestSeller": true
+  },
+  {
+    "id": 12,
+    "name": "Dây đeo kính Vintage",
+    "price": 276000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Dây đeo kính phong cách vintage giúp bạn giữ kính an toàn và là một phụ kiện thời trang độc đáo.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 13,
+    "name": "Mắt kính Mẫu Mới 1",
+    "price": 2369000,
+    "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?q=80&w=1176&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 14,
+    "name": "Mắt kính Mẫu Mới 2",
+    "price": 1380000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 15,
+    "name": "Mắt kính Mẫu Mới 3",
+    "price": 1058000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 16,
+    "name": "Mắt kính Mẫu Mới 4",
+    "price": 1357000,
+    "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?q=80&w=1176&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 17,
+    "name": "Mắt kính Mẫu Mới 5",
+    "price": 1150000,
+    "image": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 18,
+    "name": "Mắt kính Mẫu Mới 6",
+    "price": 529000,
+    "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 19,
+    "name": "Mắt kính Mẫu Mới 7",
+    "price": 1219000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 20,
+    "name": "Mắt kính Mẫu Mới 8",
+    "price": 2714000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 21,
+    "name": "Mắt kính Mẫu Mới 9",
+    "price": 1242000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 22,
+    "name": "Mắt kính Mẫu Mới 10",
+    "price": 2231000,
+    "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 23,
+    "name": "Mắt kính Mẫu Mới 11",
+    "price": 1679000,
+    "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 24,
+    "name": "Mắt kính Mẫu Mới 12",
+    "price": 2277000,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1074&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 25,
+    "name": "Mắt kính Mẫu Mới 13",
+    "price": 667000,
+    "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 26,
+    "name": "Mắt kính Mẫu Mới 14",
+    "price": 897000,
+    "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?q=80&w=1176&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 27,
+    "name": "Mắt kính Mẫu Mới 15",
+    "price": 2254000,
+    "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?q=80&w=1176&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 28,
+    "name": "Mắt kính Mẫu Mới 16",
+    "price": 1035000,
+    "image": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?q=80&w=687&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, mắt kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Mắt kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 29,
+    "name": "Gọng kính Mẫu Mới 1",
+    "price": 2645000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 30,
+    "name": "Gọng kính Mẫu Mới 2",
+    "price": 2369000,
+    "image": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 31,
+    "name": "Gọng kính Mẫu Mới 3",
+    "price": 1426000,
+    "image": "https://images.unsplash.com/photo-1496202703211-aa28e9500c30?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 32,
+    "name": "Gọng kính Mẫu Mới 4",
+    "price": 828000,
+    "image": "https://images.unsplash.com/photo-1496202703211-aa28e9500c30?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 33,
+    "name": "Gọng kính Mẫu Mới 5",
+    "price": 1311000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 34,
+    "name": "Gọng kính Mẫu Mới 6",
+    "price": 2691000,
+    "image": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 35,
+    "name": "Gọng kính Mẫu Mới 7",
+    "price": 1817000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 36,
+    "name": "Gọng kính Mẫu Mới 8",
+    "price": 1518000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 37,
+    "name": "Gọng kính Mẫu Mới 9",
+    "price": 1035000,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=735&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 38,
+    "name": "Gọng kính Mẫu Mới 10",
+    "price": 2346000,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=735&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 39,
+    "name": "Gọng kính Mẫu Mới 11",
+    "price": 2001000,
+    "image": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": true
+  },
+  {
+    "id": 40,
+    "name": "Gọng kính Mẫu Mới 12",
+    "price": 2323000,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=735&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 41,
+    "name": "Gọng kính Mẫu Mới 13",
+    "price": 2737000,
+    "image": "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?q=80&w=880&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 42,
+    "name": "Gọng kính Mẫu Mới 14",
+    "price": 1058000,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=735&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 43,
+    "name": "Gọng kính Mẫu Mới 15",
+    "price": 575000,
+    "image": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 44,
+    "name": "Gọng kính Mẫu Mới 16",
+    "price": 2231000,
+    "image": "https://images.unsplash.com/photo-1496202703211-aa28e9500c30?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, gọng kính này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Gọng kính",
+    "isBestSeller": false
+  },
+  {
+    "id": 45,
+    "name": "Phụ kiện Mẫu Mới 1",
+    "price": 506000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 46,
+    "name": "Phụ kiện Mẫu Mới 2",
+    "price": 1035000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 47,
+    "name": "Phụ kiện Mẫu Mới 3",
+    "price": 2369000,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 48,
+    "name": "Phụ kiện Mẫu Mới 4",
+    "price": 1541000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": true
+  },
+  {
+    "id": 49,
+    "name": "Phụ kiện Mẫu Mới 5",
+    "price": 1035000,
+    "image": "https://images.unsplash.com/photo-1516767254874-281bffac9e9a?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 50,
+    "name": "Phụ kiện Mẫu Mới 6",
+    "price": 1610000,
+    "image": "https://images.unsplash.com/photo-1516767254874-281bffac9e9a?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": true
+  },
+  {
+    "id": 51,
+    "name": "Phụ kiện Mẫu Mới 7",
+    "price": 1932000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 52,
+    "name": "Phụ kiện Mẫu Mới 8",
+    "price": 529000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 53,
+    "name": "Phụ kiện Mẫu Mới 9",
+    "price": 713000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 54,
+    "name": "Phụ kiện Mẫu Mới 10",
+    "price": 2645000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 55,
+    "name": "Phụ kiện Mẫu Mới 11",
+    "price": 529000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 56,
+    "name": "Phụ kiện Mẫu Mới 12",
+    "price": 506000,
+    "image": "https://images.unsplash.com/photo-1614713568394-b2df2798e16e?q=80&w=800&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 57,
+    "name": "Phụ kiện Mẫu Mới 13",
+    "price": 2369000,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 58,
+    "name": "Phụ kiện Mẫu Mới 14",
+    "price": 2116000,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  },
+  {
+    "id": 59,
+    "name": "Phụ kiện Mẫu Mới 15",
+    "price": 690000,
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=764&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": true
+  },
+  {
+    "id": 60,
+    "name": "Phụ kiện Mẫu Mới 16",
+    "price": 2599000,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?q=80&w=1170&auto=format&fit=crop",
+    "description": "Được thiết kế tinh xảo, phụ kiện này mang lại phong cách nổi bật và hiện đại cho người sử dụng.",
+    "category": "Phụ kiện",
+    "isBestSeller": false
+  }
+]
