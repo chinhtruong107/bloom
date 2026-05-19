@@ -4,6 +4,7 @@ import Features from "@/components/product/Features";
 import ProductBreadcrumb from "@/components/product/ProductBreadcrumb";
 import ProductNotFound from "@/components/product/ProductNotFound";
 import RelatedProducts from "@/components/product/RelatedProducts";
+import ShareProduct from "@/components/product/ShareProduct";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { useCart } from "@/context/CartContext";
@@ -14,7 +15,6 @@ import {
   Heart,
   Minus,
   Plus,
-  Share2,
   ShoppingCart,
   Star,
 } from "lucide-react";
@@ -206,14 +206,11 @@ export default function Product() {
                 Thêm vào yêu thích
               </Button>
 
-              <Button
-                variant="ghost"
-                size="sm"
-                className="text-muted-foreground hover:text-foreground"
-              >
-                <Share2 className="h-4 w-4 mr-2" />
-                Chia sẻ
-              </Button>
+              <ShareProduct
+                productId={product.id}
+                productName={product.name}
+                productImage={product.image}
+              />
             </div>
           </div>
         </div>
