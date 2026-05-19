@@ -31,11 +31,6 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by Bloomtpl and development team. 
+Design and code is completely written by chinh truong.
 ```
 
-## License
-
- - Design and Code is Copyright &copy; <a href="https://github.com/bloomtpl" target="_blank">Bloomtpl</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
