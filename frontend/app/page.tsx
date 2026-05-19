@@ -18,17 +18,17 @@ export default function Home() {
 
       <div className="space-y-12 mt-4">
         <FadeIn direction="up" delay={0.1}>
-          <ProductList id="ban-chay" title="Sản Phẩm Bán Chạy" products={bestSellers} />
+          <ProductList id="ban-chay" title="Sản Phẩm Bán Chạy Nhất" products={bestSellers} />
         </FadeIn>
-        
+
         <FadeIn direction="up" delay={0.2}>
-          <ProductList id="gong-kinh" title="Gọng Kính" products={frames} viewMoreLink="/category/gong-kinh" />
+          <ProductList id="gong-kinh" title="Bộ Sưu Tập Gọng Kính" products={frames} viewMoreLink="/category/gong-kinh" />
         </FadeIn>
-        
+
         <FadeIn direction="up" delay={0.3}>
-          <ProductList id="mat-kinh" title="Mắt Kính" products={lenses} viewMoreLink="/category/mat-kinh" />
+          <ProductList id="mat-kinh" title="Tròng Kính Chất Lượng" products={lenses} viewMoreLink="/category/mat-kinh" />
         </FadeIn>
-        
+
         <FadeIn direction="up" delay={0.4}>
           <ProductList id="phu-kien" title="Phụ Kiện" products={accessories} viewMoreLink="/category/phu-kien" />
         </FadeIn>

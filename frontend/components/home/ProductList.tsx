@@ -14,17 +14,20 @@ export default function ProductList({ products, title, id, viewMoreLink }: Produ
   return (
     <div id={id} className="mb-16 scroll-mt-24 max-w-7xl mx-auto">
       {title && (
-        <div className="flex flex-col sm:flex-row items-center justify-between mb-8">
-          <h2 className="text-3xl font-bold tracking-tight text-foreground text-center sm:text-left w-full sm:w-auto">
-            {title}
-          </h2>
+        <div className="flex flex-col sm:flex-row items-center justify-between mb-12 pb-6 border-b-2 border-gradient-to-r from-primary/30 via-primary/10 to-transparent">
+          <div className="flex items-center gap-3 w-full sm:w-auto">
+            <div className="h-1 w-8 bg-gradient-to-r from-primary to-primary/50 rounded-full" />
+            <h2 className="text-4xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-foreground to-foreground/80 text-center sm:text-left">
+              {title}
+            </h2>
+          </div>
           {viewMoreLink && (
-            <Link 
+            <Link
               href={viewMoreLink}
-              className="text-primary hover:text-primary/80 font-medium text-sm mt-4 sm:mt-0 transition-colors flex items-center group"
+              className="text-primary hover:text-primary/80 font-semibold text-sm mt-6 sm:mt-0 transition-all flex items-center group px-4 py-2 rounded-full hover:bg-primary/5"
             >
-              Xem thêm 
-              <span className="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+              Xem thêm
+              <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
             </Link>
           )}
         </div>
